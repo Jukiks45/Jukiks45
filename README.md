@@ -6,18 +6,15 @@ I am a student who likes the world of IT and programming. :ghost:
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <br>
 </details>
 Feel free to contact me :yum: Here are some projects that I'm working on:
 <br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
-<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:moe@chocola.dev"><img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange"></a>
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
+<a href="https://www.facebook.com/profile.php?id=100044014268093" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a rel="me" href="mailto:unluading123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/zakichan189/" target="_blank"><img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
