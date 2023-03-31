@@ -16,3 +16,5 @@ I am a student who likes the world of IT and programming. :ghost:
 Feel free to contact me :yum: Here are some projects that I'm working on:
 <br><br>
 <a href="https://www.facebook.com/profile.php?id=100044014268093" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a rel="me" href="mailto:unluading123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/zakichan189/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
